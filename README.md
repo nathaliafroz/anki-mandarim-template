@@ -6,7 +6,7 @@ Um template customizado para cartões do **Anki**, criado para facilitar o **est
 
 ## Recursos do Template
 
--  Layout elegante com visual moderno (glassmorphism)
+-  Layout com visual efeito vidro
 -  Campo de áudio com botão de replay
 -  Tradução e pinyin separados
 -  Imagem opcional no verso (com adaptação automática se ausente)
