@@ -54,7 +54,7 @@ A imagem possui bordas arredondadas e sombra suave para melhor integração visu
 
 1. Baixe o template
 2. Clique 2x para abrir direto no Anki
-3. Um deck de desmostração sera adicionado e junto com ele o template
+3. Um deck de demonstração sera adicionado e junto com ele o template
 4. Para adicionar o template um card especifico
 5. Clique em um Deck > Adicionar > Tipo de Nota > `Mandarim`
 
