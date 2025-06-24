@@ -58,12 +58,6 @@ A imagem possui bordas arredondadas e sombra suave para melhor integração visu
 4. Para adicionar o template um card especifico
 5. Clique em um Deck > Adicionar > Tipo de Nota > `Mandarim`
 
-
-https://github.com/user-attachments/assets/fbb07785-a178-4be2-9994-c07dad4bb977
-
-
-   
-
 ---
 
 ## Exemplo de uso no Anki
@@ -75,6 +69,9 @@ https://github.com/user-attachments/assets/fbb07785-a178-4be2-9994-c07dad4bb977
 | Pinyin  | Nǐ hǎo ma?                   |
 | Audio   | `[sound:nihao.mp3]`          |
 | Imagem  | `<img src="china.png">`      |
+
+---
+https://github.com/user-attachments/assets/eb70a065-e3bd-41b7-9ebe-53db37b45488
 
 ---
 
